@@ -1,4 +1,8 @@
-﻿bool playAgain = true;
+﻿//Michelle reviewed on 10/25
+//"everything works well, nicely done!"
+
+
+bool playAgain = true;
 bool validResponse = true;
 string UAnswer;
 while(playAgain == true) 
